@@ -26,8 +26,3 @@ python -m http.server 8000
 ```
 Then navigate to `http://localhost:8000` in your web browser.
 
-## Deployment 
-This pristine architecture is Cloud-ready and specifically optimized for modern Edge CDNs (Content Delivery Networks):
-1. Create a free account on [Netlify](https://www.netlify.com/) or [Vercel](https://vercel.com/).
-2. Link your GitHub account and select this repository.
-3. The site will automatically deploy globally in under 5 seconds!
